@@ -63,6 +63,14 @@ main img{
         margin: 65px 0 72px 60px ;
     }
 
+    h1{
+    text-align: center;
+    font-family:"Unbounded", sans-serif;
+    font-size: 4rem;
+    margin-bottom: 24px;
+    
+    }
+
 
     main p{
         width: 648px;
