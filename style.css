@@ -70,7 +70,7 @@ main img{
 }
 
 
-@media(max-width: 375px){
+@media (max-width: 375px){ 
 
     header img{
         margin: 32px 0 60px 16px ;
@@ -96,3 +96,4 @@ main img{
         width: 250px;
     }
 }
+
