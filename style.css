@@ -11,7 +11,7 @@ header img{
 h1{
     text-align: center;
     font-family:"Unbounded", sans-serif;
-    font-size: 4rem;
+    font-size: 5rem;
     margin-bottom: 24px;
     
 }
@@ -70,7 +70,7 @@ main img{
 }
 
 
-@media(max-width: 375px){
+@media (max-width: 375px){ 
 
     header img{
         margin: 32px 0 60px 16px ;
@@ -79,7 +79,7 @@ main img{
     }
 
     main h1{
-        font-size: 40px;
+        font-size: 80px;
     }
 
 
@@ -96,3 +96,4 @@ main img{
         width: 250px;
     }
 }
+
